@@ -1,0 +1,7 @@
+node_modules/
+.vitepress/cache/
+.vitepress/dist/
+.direnv/
+bun.lock
+docs/.vitepress/cache/
+docs/.vitepress/dist/
