@@ -23,6 +23,7 @@ export default defineConfig({
           text: 'Projects',
           items: [
             { text: 'Existence', link: '/projects/existence' },
+            { text: 'Legacy', link: '/projects/legacy' },
           ]
         },
         {

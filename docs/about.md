@@ -19,6 +19,7 @@ para projects are like that:
 | Project | Description |
 |---------|-------------|
 | [existence](https://github.com/para-garden/existence) | Text-based HTML5 game — power anti-fantasy with constrained agency |
+| [legacy](https://github.com/para-garden/legacy) | Worldbuilding project — what humanity left behind |
 
 ## Relationship to rhi and exo
 
