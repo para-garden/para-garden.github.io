@@ -13,6 +13,8 @@ para-garden tends worlds — concrete games, experiences, and creative works. Wh
 | Project | Path | Description |
 |---------|------|-------------|
 | **existence** | `~/git/paragarden/existence` | Text-based HTML5 game — power anti-fantasy with constrained agency |
+| **legacy** | `~/git/paragarden/legacy` | Worldbuilding project — what humanity left behind |
+| **divergence** | `~/git/paragarden/divergence` | Worldbuilding project — what happens when the floor gets built |
 
 ### Org Resources
 

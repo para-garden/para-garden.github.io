@@ -20,6 +20,7 @@ para projects are like that:
 |---------|-------------|
 | [existence](https://github.com/para-garden/existence) | Text-based HTML5 game — power anti-fantasy with constrained agency |
 | [legacy](https://github.com/para-garden/legacy) | Worldbuilding project — what humanity left behind |
+| [divergence](https://github.com/para-garden/divergence) | Worldbuilding project — what happens when the floor gets built |
 
 ## Relationship to rhi and exo
 
