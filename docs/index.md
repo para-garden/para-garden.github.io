@@ -17,4 +17,7 @@ features:
   - title: "legacy ◔"
     details: Worldbuilding project. What humanity left behind — a spatial graph you navigate like a world.
     link: /projects/legacy
+  - title: "divergence ◔"
+    details: Worldbuilding project. What happens when the floor gets built — a spatial graph of a world where things stayed specific.
+    link: /projects/divergence
 ---
