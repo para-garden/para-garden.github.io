@@ -25,6 +25,7 @@ export default defineConfig({
             { text: 'Existence', link: '/projects/existence' },
             { text: 'Legacy', link: '/projects/legacy' },
             { text: 'Divergence', link: '/projects/divergence' },
+            { text: 'Solarium', link: '/projects/solarium' },
           ]
         },
         {
