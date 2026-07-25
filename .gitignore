@@ -5,3 +5,8 @@ node_modules/
 bun.lock
 docs/.vitepress/cache/
 docs/.vitepress/dist/
+
+# Normalize
+.normalize/*
+!.normalize/config.toml
+!.normalize/memory/
